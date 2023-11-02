@@ -21,7 +21,7 @@ ___This Tools is Free Enjoy Dear User.___</br>
 </p>
 
 
-__📥___Download Termux Working Apk___🔻__</br>
+__📥___Termux Working Apk___🔻__</br>
 
 
 [![forthebadge cc-nc](https://img.shields.io/badge/F_Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)](https://f-droid.org/en/packages/com.termux/)
