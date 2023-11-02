@@ -14,11 +14,18 @@ python Setup.py
 
 ___This Tools is Free Enjoy Dear User.___</br>
 
-<h2>🔻____DEMO-SCREENSHOT____🔻 </h2>
+<h2>🔻____DEMO-SRC____🔻 </h2>
 <br>
 <p align="center">
 <img src="___Scr___/SETUP_1.0.png"/>
 </p>
+
+
+__📥___Download Termux Working Apk___🔻__</br>
+
+
+[![forthebadge cc-nc](https://img.shields.io/badge/F_Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)](https://f-droid.org/en/packages/com.termux/)
+
 
 <p align="center"> 
  𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
